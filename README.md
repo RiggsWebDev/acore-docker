@@ -2,6 +2,8 @@
 
 <img src="https://www.azerothcore.org/images/logo.png" alt="logo" width="200"/>
 
+This will be my first time using Docker. I hope to make this run stable for testing purposes to eventually have my own repository with a dockerized Azerothcore with supporting mods to run totally solo. Several of the pre-package solo servers are on cores that could be better (not Azerothcore) or have had reports of BTC/Crypto miners prepacked with them. I want to give the solo server community a chance at having some fun without worries and hopefully improve my docker chops at that. - RiggsWebDev
+
 * Table of Contents
 {:toc}
 
